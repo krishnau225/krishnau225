@@ -14,20 +14,24 @@
 
 <br/><br/>
 
-<!-- Portfolio and resume -->
+
+<!--
+Portfolio and resume
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-9D4EDD?style=for-the-badge)](https://krishnakoushik-portfolio.vercel.app)
 [![Resume](https://img.shields.io/badge/📄_Resume-Download_PDF-DC2626?style=for-the-badge)](https://krishnakoushik-portfolio.vercel.app/resume.pdf)
 
 <br/>
 
-<!-- Social links -->
+Social links
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/krishna-u-a40846423/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:krishnakoushikunnam1@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/krishnau225)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-u-a40846423/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnakoushikunnam1@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishnau225)
 
 <br/>
+-->
+
 
 <!-- Status badges -->
 
